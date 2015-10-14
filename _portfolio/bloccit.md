@@ -9,25 +9,28 @@ short-description: Bloccit is a Reddit replica for social networking and news po
 {:.center}
 ![]({{ site.baseurl }}/img/bloccit.png)
 
-## Summary
+{:.left}
+[Demo Site](http://bloccit-noel123iamme.heroku.com)
+
+### Summary
 
 Bloccit is a Reddit replica for social networking and news posted and managed by registered users.
 
-## Explanation
+### Explanation
 
 
 
-## Problem
+### Problem
 
 
 
-## Solution
+### Solution
 
 
 
-## Results
+### Results
 
 
 
-## Conclusion
+### Conclusion
 

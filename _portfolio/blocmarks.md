@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocitoff
+title: Blocmarks
 thumbnail-path: "img/blocmarks.png"
 short-description: Social Bookmarking with Email Integration
 
@@ -8,6 +8,9 @@ short-description: Social Bookmarking with Email Integration
 
 {:.center}
 ![]({{ site.baseurl }}/img/blocmarks.png)
+
+{:.left}
+[Demo Site](http://blocmarks-noel123iamme.heroku.com)
 
 ## Summary
 
