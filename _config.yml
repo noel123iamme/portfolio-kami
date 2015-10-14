@@ -5,26 +5,26 @@ url: "http://www.domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Noel Deguzman # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Rails and VB/SQL Developer</h1>
+     <p>I'm a developer specializing in Rails, VB.NET, and MS SQL.</p>
   header_text_feature_image: 
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Powered by <a href="http://jekyllrb.com">Jekyll</a>.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "noel.deguzman@me.com"
   behance:
   bitbucket:
   dribbble: 
   facebook: 
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "noel123iamme"
   google_plus:
   instagram: 
   linkedin:  # Full URL
@@ -39,7 +39,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-67754011-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
