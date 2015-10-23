@@ -12,25 +12,25 @@ short-description: Utility Application with Rake Automation
 {:.left}
 [Demo Site](http://blocitoff-noel123iamme.heroku.com)
 
-## Summary
+### Summary
 
 Build a self-destructing to-do list application.
 
-## Explanation
+### Explanation
 
 
 
-## Problem
+### Problem
 
 
 
-## Solution
+### Solution
 
 
 
-## Results
+### Results
 
 
 
-## Conclusion
+### Conclusion
 

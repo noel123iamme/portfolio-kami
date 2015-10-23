@@ -12,25 +12,25 @@ short-description: Social Bookmarking with Email Integration
 {:.left}
 [Demo Site](http://blocmarks-noel123iamme.heroku.com)
 
-## Summary
+### Summary
 
 Build a production quality social bookmarking app that allows users to email, manage and share bookmarked URLs.
 
-## Explanation
+### Explanation
 
 
 
-## Problem
+### Problem
 
 
 
-## Solution
+### Solution
 
 
 
-## Results
+### Results
 
 
 
-## Conclusion
+### Conclusion
 

@@ -12,25 +12,25 @@ short-description: SaaS Wiki Collaboration Tool
 {:.left}
 [Demo Site](http://blocipedia-noel123iamme.heroku.com)
 
-## Summary
+### Summary
 
 Build a production quality SaaS app that allows users to create their own wikis.
 
-## Explanation
+### Explanation
 
 
 
-## Problem
+### Problem
 
 
 
-## Solution
+### Solution
 
 
 
-## Results
+### Results
 
 
 
-## Conclusion
+### Conclusion
 
