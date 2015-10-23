@@ -3,7 +3,6 @@ layout: post
 title: Blocmarks
 thumbnail-path: "img/blocmarks.png"
 short-description: Social Bookmarking with Email Integration
-
 ---
 
 {:.center}

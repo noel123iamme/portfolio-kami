@@ -7,11 +7,7 @@ A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and 
 
 ## Get Started
 
-<<<<<<< HEAD
-[Demo](http://madebymunsters.github.io/Lannister/)
-=======
 [Demo](http://noel123iamme.github.io/portfolio-kami/)
->>>>>>> master
 
 [Using Type](https://rohanchandra.github.io/project/type/)
 

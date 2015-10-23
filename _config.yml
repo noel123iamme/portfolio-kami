@@ -10,17 +10,6 @@ theme:
 
   # Header and footer text
   header_text: >
-<<<<<<< HEAD
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
-  header_text_feature_image: 
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
-
-  # Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
-=======
      <h1>Rails and VB/SQL Developer</h1>
      <p>I'm a developer specializing in Rails, VB.NET, and MS SQL.</p>
   header_text_feature_image: 
@@ -30,23 +19,15 @@ theme:
   # Icons
   rss: false
   email_address: "noel.deguzman@me.com"
->>>>>>> master
   behance:
   bitbucket:
   dribbble: 
   facebook: 
   flickr:
-<<<<<<< HEAD
-  github: noel123iamme
-  google_plus:
-  instagram: 
-  linkedin:  # Full URL
-=======
   github: "noel123iamme"
   google_plus: 
   instagram: 
   linkedin:  https://www.linkedin.com/pub/joseph-deguzman/2b/b94/a87
->>>>>>> master
   pinterest:
   reddit:
   soundcloud:

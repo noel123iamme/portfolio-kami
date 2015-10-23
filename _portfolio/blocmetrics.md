@@ -3,11 +3,10 @@ layout: post
 title: Blocmetrics
 thumbnail-path: "img/blocmetrics.png"
 short-description: API Tracking Service and Reporting Tool
-
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocmarks.png)
+![]({{ site.baseurl }}/img/blocmetrics.png)
 
 ### Summary
 

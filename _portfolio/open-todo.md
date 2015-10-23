@@ -3,11 +3,8 @@ layout: post
 title: Open-ToDo
 thumbnail-path: "img/open-todo.png"
 short-description: External API with Authentication
-
 ---
 
-{:.center}
-![]({{ site.baseurl }}/img/blocmarks.png)
 
 ### Summary
 
