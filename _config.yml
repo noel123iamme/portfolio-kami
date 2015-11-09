@@ -14,7 +14,7 @@ theme:
      <p>I'm a developer specializing in Rails, VB.NET, and MS SQL.</p>
   header_text_feature_image: 
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a>.
+     <h5>Noel Deguzman</h5>  
 
   # Icons
   rss: false
