@@ -25,3 +25,6 @@ The only flaw I see, is that everyone in your bootcamp worked on the same projec
 What these bootcamps do do is provide a student with enough knowledge to begin working on their own projects after the bootcamp is completed.  It will be in the time, post apprenticeship, where the graduates take the time to build a portfolio of new apps that will get you a job.  The apps you built during the apprenticeship simply aren't enough.  Your "true" portfolio will be the apps you build post bootcamp.  It will be those projects that will showcase your **"true"** ability as a developer.
 
 As a new graduate myself, I already know that I still have a lot of work ahead of me.  I need to continue my education and expand my knowledge.  I need build and complete my capstone - not just one capsone, but 3, 5, maybe even 10 or more.  As many as it takes for a future employer to feel confident in my ability and offer me a job.
+
+{:.center}
+<a class="button" href="{{ site.baseurl }}/5_blogs.html"><i class="fa fa-hand-o-left"></i> Back</a>

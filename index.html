@@ -5,8 +5,8 @@ layout: default
 <div class="home">
 
   <div class="work">
-    <h2>My Work</h2>
-    {% for project in site.portfolio limit:3 %}
+    <h2 class="project-header">My Latest Work</h2>
+    {% for project in site.portfolio limit:1 %}
     <div class="project">
       <div class="project-thumb">
         <a href="{{ project.url | prepend: site.baseurl }}">
@@ -19,12 +19,14 @@ layout: default
       </div>
     </div>
     {% endfor %}
+
+    <a class="button" href="{{ site.baseurl }}/4_portfolio.html">See more projects <i class="fa fa-hand-o-right"></i></a>
   </div>
 
   <div class="posts">
     <h2 class="post-header">My Posts</h2>
     <ul>
-      {% for post in paginator.posts %}
+      {% for post in site.posts limit:4 %}
       <li class="post-teaser">
         <header>
           <h3>
@@ -45,22 +47,8 @@ layout: default
       </li>
       {% endfor %}
     </ul>
+    
+    <a class="button" href="{{ site.baseurl }}/5_blogs.html">See more posts <i class="fa fa-hand-o-right"></i></a>
   </div>
 
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      <i class="fa fa-chevron-left"></i>
-      {{ site.theme.str_prev }}
-    </a>
-    {% endif %}
-    {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-      {{ site.theme.str_next }}
-      <i class="fa fa-chevron-right"></i>
-    </a>
-    {% endif %}
-  </div>
-  {% endif %}
 </div>

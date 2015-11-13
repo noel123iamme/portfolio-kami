@@ -15,3 +15,6 @@ I have knowledge in many areas of software development and project management, b
 I'm comfortable with the idea that I won't become an expert overnight.  What I *can* do is increase my knowledge in the areas that I have the most amount of experience.  I started my college carreer as a Computer Science student.  I've been a software programmer for, at least, the last 20 years.  Why not just keep learning application development?  That's when I discovered Coding Bootcamps.
 
 Coding Bootcamps provide that focused education that I was looking for.  I needed it to be online, self-paced so that I can continue working while go to school.  Most importantly, the education being provided at an excelerated pace to get me started and finished quickly.  I started with Ruby / Ruby on Rails.  Next up, iOS mobile application development.  And, the future..., I'll know when I get there.
+
+{:.center}
+<a class="button" href="{{ site.baseurl }}/5_blogs.html"><i class="fa fa-hand-o-left"></i> Back</a>

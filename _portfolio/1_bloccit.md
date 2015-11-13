@@ -9,8 +9,7 @@ short-description: Bloccit is a Reddit replica for social networking and news po
 ![]({{ site.baseurl }}/img/bloccit.png)
 
 {:.center}
-<a class="btn btn-default" href="http://bloccit-noel123iamme.heroku.com" target="_blank">Demo Site <span class="glyphicon glyphicon-chevron-right"></span></a>
-
+<a class="button" href="http://bloccit-noel123iamme.heroku.com" target="_blank"><i class="fa fa-cloud"> Demo Site</i></a> <a class="button" href="https://github.com/{{ site.theme.github }}/bloccit" target="_blank"><i class="fa fa-fw fa-github"></i> Source Code</a>
 
 ### Summary
 
@@ -84,3 +83,6 @@ A working, production web application
 ### Conclusion
 
 As my first Ruby project, this was a difficult and challenging task to say the least.  Learning Ruby syntax and the Rails framework was an expecially difficult task coming from a long time Microsoft VB.NET developer.  Thankfully, my mentor, the Bloc Stack Exchange, fellow students, Ruby developer community, and Google helped make finding answers possibles.
+
+{:.center}
+<a class="button" href="{{ site.baseurl }}/4_portfolio.html"><i class="fa fa-hand-o-left"></i> Back to Portfolio</a>   <a class="button" href="{{ site.baseurl }}/portfolio/2_blocitoff/">Next project: Blocitoff <i class="fa fa-hand-o-right"></i></a>
