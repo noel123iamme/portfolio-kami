@@ -44,4 +44,3 @@ title: Blogs
 </div>
 {% endif %}
 
-{% include back-to-home.html %}
